@@ -4,10 +4,8 @@ I am Umme Kulsum Tumpa - studying [Software Engineering, University of Dhaka](ht
 
 ## GitHub Stats:
 
-<div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmmeKulsumTumpa&show_icons=true&locale=en&layout=compact" alt="UmmeKulsumTumpa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmmeKulsumTumpa&show_icons=true&locale=en" alt="UmmeKulsumTumpa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmmeKulsumTumpa&" alt="UmmeKulsumTumpa" /></p>
+<div align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmmeKulsumTumpa&show_icons=true&locale=en&layout=compact" alt="UmmeKulsumTumpa" /><br/><br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=UmmeKulsumTumpa&show_icons=true&locale=en" alt="UmmeKulsumTumpa" /><br/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmmeKulsumTumpa&" alt="UmmeKulsumTumpa" /><br/>
 </div>
