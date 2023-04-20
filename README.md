@@ -2,9 +2,9 @@
 
 I am Umme Kulsum Tumpa - studying [Software Engineering, University of Dhaka](http://www.iit.du.ac.bd/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=UmmeKulsumTumpa&show_icons=true&locale=en" alt="UmmeKulsumTumpa" /></p>
+## GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=UmmeKulsumTumpa&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=UmmeKulsumTumpa&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmmeKulsumTumpa&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UmmeKulsumTumpa&show_icons=true&locale=en&layout=compact" alt="UmmeKulsumTumpa" /></p><br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UmmeKulsumTumpa&" alt="UmmeKulsumTumpa" /></p>
 
