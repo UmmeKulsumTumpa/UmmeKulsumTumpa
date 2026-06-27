@@ -20,7 +20,7 @@ I'm a **software engineer and researcher** based in Dhaka — building productio
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="middle" align="center">
+<td width="50%" valign="middle" align="left">
 
 ```yaml
 name      : Umme Kulsum Tumpa
@@ -230,7 +230,7 @@ interests : DSA · System Design · REST APIs
 
 <div align="center">
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="work culture banner"/>
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600" alt="work culture banner"/> -->
 
 <br/><br/>
 
