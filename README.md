@@ -3,6 +3,9 @@
 <!-- Dynamic header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=220&section=header&text=Umme%20Kulsum%20Tumpa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Assoc.%20Software%20Engineer%20%40%20Cefalo%20BD%20%7C%20Full%20Stack%20Web%20%7C%20AI%2FML%20Researcher&descAlignY=58&descSize=15&descColor=e0d7ff" alt="header"/>
 
+<!-- Animated coding scene banner -->
+<img src="./banner.svg" alt="Animated coding workspace with cat, books, and floating code snippets" width="100%"/>
+
 <!-- Greeting badge -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=7B61FF&center=true&vCenter=true&width=680&lines=Assalamu+Alaikum+%F0%9F%91%8B;Assoc.+Software+Engineer+%40+Cefalo+BD;Full+Stack+Web+Developer;AI%2FML+Researcher+%7C+NLP+Enthusiast;Learning+Flutter+to+go+cross-platform;Always+learning%2C+always+building." alt="Typing animation"/>
 
@@ -111,7 +114,9 @@ At Cefalo, I've contributed to **2 in-house projects** and **2 client projects**
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ummekulsumtumpa&theme=tokyonight&no-frame=true&margin-w=12&column=7" alt="GitHub Trophies"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ummekulsumtumpa&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&column=6" alt="GitHub Trophies"/>
+
 </div>
 
 ---
