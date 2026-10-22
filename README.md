@@ -78,22 +78,6 @@ hobbies   : reading books · learning new things
 </table>
 
 <!--- ═══════════════════════════════════════════════════════════ --->
-<!---                        RESEARCH                             --->
-<!--- ═══════════════════════════════════════════════════════════ --->
-
-## Research
-
-<sub>Interests: LLM agents · multilingual &amp; Bangla NLP · efficient inference · LLMs for health discourse</sub>
-
-| Project | Question |
-|---|---|
-| [WorkBench-Bangla](https://github.com/UmmeKulsumTumpa/WorkBench-bangla) | Do AI agents that handle workplace tasks well in English still succeed when the tasks are in Bangla? |
-| [Alzheimer’s &amp; Dementia on Reddit](https://github.com/UmmeKulsumTumpa/alzheimers-dementia-reddit-analysis) | Can LLMs reliably annotate patient and caregiver conversations at scale? |
-| M.Sc. thesis <sub>(ongoing)</sub> | Making LLM inference adapt its cost to each input |
-
-**Publications** · see [Google Scholar ↗](https://scholar.google.com/citations?user=3iF7aUQAAAAJ&hl=en)
-
-<!--- ═══════════════════════════════════════════════════════════ --->
 <!---                        TECH IN MOTION                       --->
 <!--- ═══════════════════════════════════════════════════════════ --->
 
